@@ -1,10 +1,14 @@
-# Name of project
+# Portfolio
 
-> A longer description
+A personal portfolio that provides relevant information to potential employers
+about my skills, experience, and projects I've worked on.
+
+---
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Portfolio](#portfolio)
+  - [about my skills, experience, and projects I've worked on.](#about-my-skills-experience-and-projects-ive-worked-on)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
