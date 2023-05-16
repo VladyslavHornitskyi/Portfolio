@@ -1,55 +1,126 @@
-# Project Name
+# Portfolio
 
-<!-- describe your project -->
-
----
+A personal portfolio that provides relevant information to potential employers
+about my skills, experience, and projects I've worked on.
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- clone the repo
+- turn-on Github pages
+- add collaborators
+- turn on discussion
+- protect main branch
+- install npm
 
 ---
 
-<!-- copy this section once for each must-have user story -->
-
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
+### Logo
 
-> "as a ... i can ... so that ..."
+- [ ] As a user I want to see the logo of the portfolio
 
-<!-- write any extra notes or description -->
+  - There is a logo of the portfolio. These feature will be developed on the
+    branch `logo`
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+#### HTML
 
-### Logic: user story
+- add `div` tag to `header`
+- add `image`
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### CSS
 
-### Interface: user story
+- add `logo` class to `div`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+---
 
-### Interaction: user story
+### Navigation bar with button
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] As a user I want to see the button for the navigation bar of the portfolio
+      for navigation to: Home, My services, About me, My Work pages.
 
-### Documentation: user story
+  - There is the button for the navigation bar of the portfolio for navigation
+    to: Home, My services, About me, My Work pages.
+  - These feature will be developed on the branch `button-nav`
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+#### HTML
+
+- add `button` tag to `header`
+- add `span` tag
+- add `nav` tag
+- add `ul`tag
+
+#### CSS
+
+- add `toggle` class to `nav`
+- add `hamburger` class to `span`
+- add `nav` class to `nav`
+
+---
+
+### Introdaction
+
+- [ ] As a user I want to see the introduction about the owner of thto `header`e
+      portfolio.
+
+  - There is introduction about the owner of the portfolio.
+  - These feature will be developed on the branch `intro`
+
+#### HTML
+
+- add `section` tag to `body`
+- add `h1` tag
+- add `p`
+- add `image`
+
+#### CSS
+
+- add `intro` class to `section`
+- add `title` class to `h1`
+- add `subtitle` class to `p`
+
+---
+
+### Skills
+
+- [ ] As a user I want to see the information about skills of the owner of the
+      portfolio.
+
+  - There is the information about skills of the owner of the portfolio.
+  - These feature will be developed on the branch `intro`
+
+#### HTML
+
+- add `section` tag to `body`
+- add `h2` tag
+- add `div`
+- add `h3`
+
+#### CSS
+
+- add `info-about-skills` class to `section`
+- add `title-skills` class to `h1`
+- add `skills` class to `div`
+
+---
+
+### Footer
+
+- [ ] As a user I want to see the footer with contacting information.
+
+  - There is the footer with contacting information.
+  - These feature will be developed on the branch `footer`
+
+#### HTML
+
+- add `footer` tag to `body`
+- add `a` tag
+- add `ul`
+- add `h3`
+
+#### CSS
+
+- add `mail` class to `a`
+- add `links` class to `ul`
+
+---
