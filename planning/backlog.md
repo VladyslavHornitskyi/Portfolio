@@ -1,30 +1,29 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the logo of the portfolio
 
-## Should-Haves
+  - There is a logo of the portfolio.
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user I want to see the button for the navigation bar of the portfolio
+      for navigation to: Home, My services, About me, My Work pages.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+  - There is the button for the navigation bar of the portfolio for navigation
+    to: Home, My services, About me, My Work pages.
 
-## Could-Haves
+- [ ] As a user I want to see the introduction about the owner of the portfolio
+      and a photo.
 
-> would be really cool ... if there's time
+  - There is introduction about the owner of the portfolio and a photo.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to see the information about skills of the owner of the
+      portfolio.
+
+  - There is the information about skills of the owner of the portfolio.
+
+- [ ] As a user I want to see the footer with contacting information.
+
+  - There is the footer with contacting information.
