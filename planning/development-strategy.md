@@ -8,7 +8,7 @@ about my skills, experience, and projects I've worked on.
 - clone the repo
 - turn-on Github pages
 - add collaborators
-- turn on discussion
+- turn-on discussion
 - protect main branch
 - install npm
 
@@ -60,8 +60,7 @@ about my skills, experience, and projects I've worked on.
 
 ### Introdaction
 
-- [ ] As a user I want to see the introduction about the owner of thto `header`e
-      portfolio.
+- [ ] As a user I want to see the introduction about the owner of portfolio.
 
   - There is introduction about the owner of the portfolio.
   - These feature will be developed on the branch `intro`
@@ -87,7 +86,7 @@ about my skills, experience, and projects I've worked on.
       portfolio.
 
   - There is the information about skills of the owner of the portfolio.
-  - These feature will be developed on the branch `intro`
+  - These feature will be developed on the branch `skills`
 
 #### HTML
 
