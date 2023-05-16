@@ -2,7 +2,7 @@
 
 ## HR manager
 
-![HR manager Margaux](../public/Margaux.jpg)
+![HR manager Margaux](../public/margaux.jpg)
 
 - **Bio**: Margaux is 35 years old HR manager of the consultancy company. This
   company hires web-developers for different projects. Margaux needs to evaluate
@@ -20,7 +20,7 @@
 
 ## Web developer
 
-![Webdev Alice](../public/Alice.jpg)
+![Webdev Alice](../public/alice.jpg)
 
 - **Bio**: Lia is 27 years old web-developer.
 - **Needs/Goals**: Alice is looking for the ways of collaboration with another
